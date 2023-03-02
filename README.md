@@ -10,3 +10,4 @@
 ### 5 can't order if the cart is empty
 ### 6 can't select the same item twice 
 ### 7 local storage to store the selected items and recall them after refresh
+<https://kawthermohamed.github.io/shoppingCart-include-localstorage/>
